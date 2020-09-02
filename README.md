@@ -22,8 +22,6 @@ javac Main.java
 ```
 
 ### Running
-1) put the Banker.java in the same directory as the input files that will be used
-2) compile the java file with command “javac Main.java.
-3) run program with “java Main input --(01-13).txt
 ```
-
+Java Main ../input --(01-13).txt
+```
